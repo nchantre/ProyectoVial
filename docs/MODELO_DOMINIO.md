@@ -279,8 +279,3 @@ public interface ICatalogoRepository
    - Repository ejecuta consulta con filtros
    - Resultado se mapea a DTO y se retorna
 
-## 📚 Referencias
-
-- [Domain-Driven Design - Eric Evans](https://www.domainlanguage.com/ddd/)
-- [DDD - Microsoft](https://learn.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/ddd-oriented-microservice)
-- [Value Objects - Martin Fowler](https://martinfowler.com/bliki/ValueObject.html)
